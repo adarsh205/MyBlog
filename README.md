@@ -1,4 +1,4 @@
-# Mylog
+# MyBlog
 
 This is a blog application built with Python, Flask, and PostgreSQL. The application allows users to view blog posts, comment on them, and features an admin system for managing blog content.
 You can visit the website [Here](https://myblog-0tkv.onrender.com)
